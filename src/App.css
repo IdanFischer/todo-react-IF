@@ -17,3 +17,11 @@
   color: #61dafb;
 }
 
+.false-done {
+  color: yellow !important;
+}
+
+.true-done {
+  color: cyan !important;
+  text-decoration: line-through !important;
+}
